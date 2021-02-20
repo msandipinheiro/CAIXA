@@ -3,7 +3,7 @@
 """
 Criado em 05/05/2020 às 15:30
 
-@Autor: Marcello Pinheiro
+@Autores: Marcello Pinheiro e Thiago Gomes
 """
 # Para tratar as palavras dos textos
 import unicodedata # Conjunto de caracteres de uniformidade unicode
