@@ -1,4 +1,4 @@
-## Atividades realizadas enquanto estive serviço da CAIXA
+## Atividades realizadas enquanto estive a serviço da CAIXA
 
 ### Importante
 
